@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tictaetoe-ReactJS/static/css/main.fb515705.chunk.css",
+    "main.js": "/Tictaetoe-ReactJS/static/js/main.8172600f.chunk.js",
+    "main.js.map": "/Tictaetoe-ReactJS/static/js/main.8172600f.chunk.js.map",
+    "runtime-main.js": "/Tictaetoe-ReactJS/static/js/runtime-main.331bb030.js",
+    "runtime-main.js.map": "/Tictaetoe-ReactJS/static/js/runtime-main.331bb030.js.map",
+    "static/js/2.919d2037.chunk.js": "/Tictaetoe-ReactJS/static/js/2.919d2037.chunk.js",
+    "static/js/2.919d2037.chunk.js.map": "/Tictaetoe-ReactJS/static/js/2.919d2037.chunk.js.map",
+    "index.html": "/Tictaetoe-ReactJS/index.html",
+    "precache-manifest.a2c09288b37886c32b05477c767711b1.js": "/Tictaetoe-ReactJS/precache-manifest.a2c09288b37886c32b05477c767711b1.js",
+    "service-worker.js": "/Tictaetoe-ReactJS/service-worker.js",
+    "static/css/main.fb515705.chunk.css.map": "/Tictaetoe-ReactJS/static/css/main.fb515705.chunk.css.map",
+    "static/js/2.919d2037.chunk.js.LICENSE.txt": "/Tictaetoe-ReactJS/static/js/2.919d2037.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.331bb030.js",
+    "static/js/2.919d2037.chunk.js",
+    "static/css/main.fb515705.chunk.css",
+    "static/js/main.8172600f.chunk.js"
+  ]
+}
